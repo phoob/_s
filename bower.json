@@ -1,0 +1,22 @@
+{
+  "name": "wordpress-underscores-sass",
+  "version": "1.0.0",
+  "homepage": "https://github.com/phoob/wordpress-underscores-sass",
+  "authors": [
+    "Peter Holme Obrestad <pho@me.com>"
+  ],
+  "description": "Just the SASS folder from Automattic's Underscores theme as a bower dependency",
+  "main": "sass/style.scss",
+  "keywords": [
+    "wordpress",
+    "underscores",
+    "sass"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
